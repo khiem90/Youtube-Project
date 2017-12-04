@@ -21,7 +21,7 @@ module.exports = {
   },
   devServer: {
     historyApiFallback: true,
-    port: 3001,
+    port: 3004,
     contentBase: './'
   }
 };
